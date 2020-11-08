@@ -1,1 +1,1 @@
-# Titanic_ML
+# Machine learning using the Titanic Dataset
